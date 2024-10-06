@@ -1,1 +1,1 @@
-The original is (here)[https://github.com/sojamo/controlp5].
+The original is [here](https://github.com/sojamo/controlp5).
